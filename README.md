@@ -3,3 +3,4 @@
 ## Responsive Search bar
 ## Responsive Cards
 ## Responsive Footer
+## Responsive Slider
